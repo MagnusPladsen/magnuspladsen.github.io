@@ -1,0 +1,159 @@
+* {
+    font-family: Georgia;
+    color: rgb(46, 46, 46);
+}
+
+footer {
+    margin-top: 10%;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(173, 187, 182);
+}
+
+header {
+    text-align: center;
+    margin-top: 2%;
+}
+
+header img {
+    height: 333px;
+    width: 600px;
+    margin-bottom: 1%;
+}
+
+nav {
+    word-spacing: 3em;
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+}
+
+button {
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+    display: inline-block;
+    letter-spacing: 0.2em;
+}
+
+button:hover {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+}
+
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
+
+
+
+#html {
+    margin-top: 10%;
+    text-align: justify;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#html h2 {
+    text-align: center;
+}
+
+#html p {
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+#html img {
+    width: 15%;
+    height: 15%;
+}
+
+#css {
+    margin-top: 10%;
+    text-align: justify;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#css h2 {
+    text-align: center;
+}
+
+#css p {
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+#css img {
+    width: 15%;
+    height: 15%;
+}
+
+
+#js {
+    margin-top: 10%;
+    text-align: justify;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#js h2 {
+    text-align: center;
+}
+
+#js p {
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+#js img {
+    width: 15%;
+    height: 15%;
+}
+
+
+
+#home {
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+    display: inline-block;
+}
+
+#home:hover {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+
+
+
+#copy {
+    margin-top: 5%; 
+}
